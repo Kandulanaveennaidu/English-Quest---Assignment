@@ -1,5 +1,4 @@
-# Book-store-app
-Name: __BookShelf__\
+# BOKKS-STORE 
 MERN stack project
 
 # Description
