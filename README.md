@@ -1,4 +1,4 @@
-# BOKKS-STORE 
+# BOOKS-STORE 
 MERN stack project
 
 # Description
